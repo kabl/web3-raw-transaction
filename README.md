@@ -14,5 +14,5 @@ ganache-cli
 truffle test
 
 # Running manual a test on Rinkeby
-node rinkeby/sendRawEtherTx.j
+node rinkeby/sendRawEtherTx.js
 ```
